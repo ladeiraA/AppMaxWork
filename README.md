@@ -49,9 +49,13 @@ https://reactnative.dev/docs/environment-setup
 git@github.com:ladeiraA/AppMaxWork.git
 ```
 
-#### Executar Projeto
+#### Instalar expo
 
-- npx expo
+```sh
+npm install expo
+```
+
+#### Executar Projeto
 
 ```sh
 npx expo start --web
