@@ -9,8 +9,6 @@
    </h1>
 </div>
 
-[//]: ![Banner]()
-
 ## ⌨️ Desenvolvedores
 
 - [César Augusto Matos Ladeira](https://gitlab.com/ladeiraA)
