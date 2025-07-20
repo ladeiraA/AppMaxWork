@@ -2,13 +2,6 @@
    
    ## 🚧 Projeto em Construção ... 🚧
 
-   <h1>
-      <a href="">
-         <img src="">
-      </a>
-   </h1>
-</div>
-
 ## ⌨️ Desenvolvedores
 
 - [César Augusto Matos Ladeira](https://gitlab.com/ladeiraA)
