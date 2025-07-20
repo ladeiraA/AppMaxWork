@@ -2,7 +2,7 @@
    
    ## 🚧 Projeto em Construção ... 🚧
 
-   [Desenvolvedores](#%EF%B8%8F-desenvolvedores) • [Funcionalidades](#-funcionalidades) • [Tecnologias](#-tecnologias) • [Iniciando Projeto](#-iniciando-projeto)
+   [Desenvolvedores](#%EF%B8%8F-desenvolvedores) • [Funcionalidades](#-funcionalidades) • [Tecnologias](#-tecnologias) • [Montagem do Ambiente do Desenvolvimento](#-montagem-do-ambiente-do-desenvolvimento)
 </div>
 
 
