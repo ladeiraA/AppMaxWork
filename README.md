@@ -40,15 +40,15 @@ https://code.visualstudio.com/download
 https://reactnative.dev/docs/environment-setup
 ```
 
-#### Iniciando Projeto:
+### Iniciando Projeto:
 
-### Clonar Projeto
+#### Clonar Projeto
 
 ```sh
 git@github.com:ladeiraA/AppMaxWork.git
 ```
 
-### Executar Projeto
+#### Executar Projeto
 
 - npx expo
 
