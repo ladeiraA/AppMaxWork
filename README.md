@@ -21,14 +21,6 @@
 
 #### Instalando NodeJS e NPM:
 
-- Linux
-
-```sh
-sudo apt update
-sudo apt-get install nodejs
-sudo apt install npm
-```
-
 - Windows
 
 ```sh
