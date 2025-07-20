@@ -19,18 +19,18 @@
 
 ## 📦 Montagem do Ambiente do Desenvolvimento:
 
-#### Instalando NodeJS e NPM:
+#### Instalando NodeJS:
 
-- Windows
-
+- Windows (Baixar Instalador no site)
+  
 ```sh
-Baixar Instalador no site https://nodejs.org/
+https://nodejs.org/
 
 ```
 
 #### Instalando Visual Studio Code (este passo é opcional):
 
-- Neste passo ocorre a instalação do editor de texto usado pelo time
+- Neste passo ocorre a instalação do editor de texto
 
 ```sh
 https://code.visualstudio.com/download
@@ -38,9 +38,11 @@ https://code.visualstudio.com/download
 ```
 
 #### Configurando ambiente:
-- Seguir o tutorial do link abaixo de acordo com seu sistema operacional
+- Seguir o tutorial do link abaixo
+  
+```sh
 https://reactnative.dev/docs/environment-setup
-
+```
 
 #### Iniciando Projeto:
 
