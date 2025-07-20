@@ -34,13 +34,6 @@ https://code.visualstudio.com/download
 
 ```
 
-#### Configurando ambiente:
-- Seguir o tutorial do link abaixo
-  
-```sh
-https://reactnative.dev/docs/environment-setup
-```
-
 ### Iniciando Projeto:
 
 #### Clonar Projeto
