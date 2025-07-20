@@ -48,7 +48,7 @@ https://reactnative.dev/docs/environment-setup
 git@github.com:ladeiraA/AppMaxWork.git
 ```
 
-### Rodar Projeto
+### Executar Projeto
 
 - npx expo
 
