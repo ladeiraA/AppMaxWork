@@ -14,6 +14,14 @@ export default function TabRoutes(){
             screenOptions={({ route }) => ({
                 headerShown: false,
                 tabBarShowLabel: false,
+                tabBarActiveBackgroundColor: 'grey',
+                tabBarInactiveBackgroundColor: 'black',
+                tabBarActiveTintColor: 'white',
+                tabBarIconStyle: {
+                    justifyContent: 'center',
+                    alignItems: 'center',
+                    paddingBottom: 5,
+                },
                 tabBarIcon: ({ focused, color, size }) => {
                     let iconSource: ImageSourcePropType;
 
